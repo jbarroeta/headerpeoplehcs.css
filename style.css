@@ -1,0 +1,64 @@
+.fa-facebook {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding:10px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: white;
+}
+.fa-facebook:hover {
+    color:white;
+    background-color: #91C5EA;
+}
+.fa-instagram {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding:10px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: white;
+}
+.fa-instagram:hover {
+    color:white;
+    background-color: #91C5EA;
+}
+.fa-twitter {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding:10px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: white;
+}
+.fa-twitter:hover {
+    color:white;
+    background-color: #91C5EA;
+}
+.fa-linkedin {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding:10px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: white;
+}
+.fa-linkedin:hover {
+    color:white;
+    background-color: #91C5EA;
+}
